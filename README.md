@@ -6,7 +6,7 @@
 
 **A phone app that counts pills in a pharmacy counting tray from a photo. Everything runs on the phone.**
 
-Pharmacy staff count tablets and capsules by hand, five at a time, hundreds of times a day. Eir Count does the counting. The phone is held over the tray, it takes three photos, and it puts a dot on every pill. The pharmacist checks the dots and accepts the count. The tagline is the design rule: *Eir counts. You check.*
+Pharmacy staff count tablets and capsules by hand, five at a time, hundreds of times a day. Eir Count does the counting. The phone is held over the tray, it takes three photos, and it puts a dot on every pill. The pharmacist checks the dots and accepts the count.
 
 I'm a pharmacist. I designed and directed this project and built it with AI coding agents, mostly Claude Code, between September and November 2026. This repository is a showcase. It holds screenshots, results, design notes and a few representative source files. It does not hold the full app or the trained model.
 

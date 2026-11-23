@@ -16,7 +16,7 @@ This page covers how that worked in practice.
 - **Product rules.**
   - Count the main tray surface only.
   - Never show a percentage.
-  - "Eir counts. You check."
+  - The pharmacist verifies every count.
   - No accounts and no cloud.
   - No italics. (Some rules are taste.)
 - **Data.** I photographed trays and reviewed labels, and I confirmed or rejected every proposed label correction.

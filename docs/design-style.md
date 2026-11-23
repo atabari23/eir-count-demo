@@ -123,7 +123,7 @@ These illustrate the rules. They are examples of the method, not images to recre
 
 Replace this section for any other project.
 
-- **Product.** Eir Count, by Asgard Pharmaceuticals: a phone app that counts tablets and capsules from a photo of a counting tray. The pharmacist always verifies the count. Tagline: "Eir counts. You check." The app ships in English and French.
+- **Product.** Eir Count, by Asgard Pharmaceuticals: a phone app that counts tablets and capsules from a photo of a counting tray. The pharmacist always verifies the count. The app ships in English and French.
 - **Ground.** Bone `#F4F3EE`, with a lighter surface `#FBFAF7` for mats and fields. The camera screen uses dark bands `#15221C`.
 - **Colour.** Ink `#1B2620`; secondary text `#3A4038`; label grey `#4E5246`; western hemlock green `#457A65` for the mark and fills; deep green `#1E5341` for text and buttons; gold `#B08D56` as the single accent, decorative only.
 - **Type.** Newsreader for counts and titles, Instrument Sans for the interface, IBM Plex Mono for labels. No italics anywhere; this is the owner's decision.
